@@ -6,4 +6,5 @@ Through a seamless fusion of UI/UX finesse and frontend wizardry, we've created 
 Every element of our website, from the sleek design elements to the fluid navigation, is meticulously crafted to enhance the user experience. Each pixel pulsates with the promise of career advancement, as users embark on a journey to showcase their talents and aspirations in the most impactful way possible.
 
 By revolutionizing the traditional resume-building process, we're reshaping the way individuals present themselves to potential employers and collaborators. Our mission is to empower users to craft immaculate resumes that stand out in a competitive landscape, ultimately helping them achieve their career goals with confidence and ease. Join us in this transformative journey as we redefine the standards of talent showcase, one resume at a time.
+
 the HOST link of Resume builder:-https://resumebuildpbcoe.netlify.app/index.html
